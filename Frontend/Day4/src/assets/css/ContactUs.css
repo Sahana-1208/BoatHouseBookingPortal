@@ -1,0 +1,26 @@
+.contactwrap{
+    font-family: Arial, sans-serif;
+    background-color: #e5ecec;
+    padding: 20px;
+}
+
+.contacth1 {
+    color: #6c6d6d;
+}
+
+.contacth2 {
+    color: #808282;
+}
+
+.contactp {
+    color: #333;
+}
+
+.contacta {
+    color: #006699;
+    text-decoration: none;
+}
+
+.contacta:hover {
+    text-decoration: underline;
+}

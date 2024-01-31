@@ -1,0 +1,97 @@
+/* .home-header{
+    position:relative;
+    height: 80px;
+    width: 100%;
+    padding: 0 20px;
+    z-index: 100;
+}
+.wrapperhome{
+    background-image: url("../images/boat1.jpg");
+    position:fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+}
+.wrappersection{
+    height:30vh;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin: auto;
+    margin-top: 20vh;
+}
+/* .bookingPanel{
+    dis
+} */ 
+.wrappersection{
+    margin:0;
+    padding: 0;
+    height: 80vh;
+    background-image: url('../images/boat1.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.bookingPanel{
+    margin: 10px 20px;
+    padding: 0;
+    box-sizing: border-box;
+    height: 7vh;
+    width: 65%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.homepannel{
+    font-size: larger;
+    /* box-sizing: border-box;
+    /* border: 2px solid black; */
+    /* padding: 5px 10px; */
+}
+/* .wrappersection::before{
+    content: ""; 
+    position: absolute; 
+    top: 0px; 
+    right: 0px; 
+    bottom: 0px; 
+    left: 0px; 
+    background-image: url( "../images/boat1.jpg"); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    z-index: -1; 
+} */
+.wrapperhome{
+    padding: 0%;
+    margin: 0%;
+    height: auto;
+    width: 100%;
+}
+.features{
+    height: 35vh;
+    width: 100%;
+    /* background-color: rgb(174, 173, 172); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0%;
+}
+.featurelist{
+    height: 35vh;
+    width:25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}

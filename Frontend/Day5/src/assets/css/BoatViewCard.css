@@ -1,0 +1,27 @@
+.viewcardwrapper{
+    box-sizing: border-box;
+    height: 30vh;
+    width:96%;
+    margin: 1rem;
+    border:1px solid rgb(141, 146, 146);
+    border-radius: 10px;
+    background-color:rgb(141, 146, 146);
+    display: flex;
+}
+.viewcardimage{
+    height:100%;
+    width:25%;
+    border:1px solid rgb(141, 146, 146);
+    border-radius: 10px;
+    background-color:rgb(141, 146, 146);
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.viewcarddetails{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
