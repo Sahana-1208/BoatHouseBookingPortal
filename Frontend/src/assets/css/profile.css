@@ -1,0 +1,35 @@
+.profilewrapper{
+    display: flex;
+    box-sizing: border-box;
+}
+.profilesidebar{
+    width:25%;
+    height: 90vh;
+    background-color: rgb(168, 166, 164);
+}
+.profilecontent{
+    width: 75%;
+    background-color: rgb(216, 218, 218);
+    height: 90vh;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+.profileoptions{
+    height:7vh;
+    font-size: larger;
+    border-bottom: 1px solid;
+    padding: 10px 20px ;
+    box-sizing: border-box;
+}
+.profileoptions:hover{
+    background-color: white;
+}
+.prologo{
+    height:35vh;
+    width:100%;
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
+    padding: 20px 30px;
+}

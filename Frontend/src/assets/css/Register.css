@@ -1,0 +1,56 @@
+.wrapperRegister{
+    width:100%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(188, 187, 185);
+
+}
+.auth-form-containerreg{
+    text-align: center;
+    display: flex;
+    min-height: 50vh;
+    width: 35%;
+    background-image: linear-gradient(79deg, #767674, #acadaa 48%, #81807f);
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+
+    /* margin:auto; */
+    /* margin-top: 20vh; */
+}
+.register-form{
+    display: flex;
+    flex-direction: column;
+}
+.reglabel{
+    text-align: left;
+    padding: 0.25rem 0;
+}
+.reginput{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+}
+.regsubmit{
+    border: none;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #7439db;
+}
+.link-btnreg{
+    background: none;
+    color: white;
+    text-decoration: underline;
+    border: none;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}

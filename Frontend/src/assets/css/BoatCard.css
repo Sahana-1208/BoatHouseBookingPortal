@@ -1,0 +1,13 @@
+.cardwrapper{
+    box-sizing: border-box;
+    margin: 15px;
+    padding: 10px;
+    height:36vh;
+    width:22%;
+    border: 1px solid;
+    display: inline-block;
+    text-align: left;
+}
+.boatimage{
+    height: 20vh;
+}
