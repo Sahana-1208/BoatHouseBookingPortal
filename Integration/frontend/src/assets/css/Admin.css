@@ -1,0 +1,185 @@
+.admineditprofile{
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,0.7);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.editoptions{
+    border: none;
+    height: 12vh;
+    font-size: larger;
+}
+.addboateditoptions{
+    border: none;
+    height: 8vh;
+    font-size: larger;
+}
+.addboateditinputadmin{
+    width:80%;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 6px;
+}
+.editinputadmin{
+    width:90%;
+    margin: 15px 5px 0 0;
+    padding: 10px;
+    border-radius: 6px;
+}
+.editproform{
+    width: 30%;
+    height: 40vh;
+    box-sizing: border-box;
+    background-color: white;
+}
+.adminaddboat{
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,0.7);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adminaddboattable{
+
+    width: 100%;
+}
+.adminboatpage{
+    width: 50%;
+    height: 90vh;
+    box-sizing: border-box;
+    background-color: white;
+}
+.adminwrapper{
+    box-sizing: border-box;
+    margin: 0;
+    /* background-color: rgb(137, 142, 140); */
+    height:100vh;
+    width:100%;
+    display: flex;
+    position: fixed;
+}
+.adminsidebar{
+    box-sizing: border-box;
+    height:100vh;
+    width:25%;
+    background-color: rgb(123, 123, 123);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.admincontent{
+    box-sizing: border-box;
+    height: 100vh;
+    width: 75%;
+    background-color: rgb(123, 123, 123);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.adminprofile{
+    box-sizing: border-box;
+    height:60vh;
+    width:95%;
+    background-color: rgb(167, 169, 168);
+    border:1px solid rgb(167, 169, 168);
+    border-radius: 30px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.adminoptions{
+    box-sizing: border-box;
+    height:40vh;
+    width:95%;
+    background-color: rgb(167, 169, 168);
+    border:1px solid rgb(167, 169, 168);
+    border-radius: 30px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.adminStat{
+    box-sizing: border-box;
+    height: 25vh;
+    width: 95%;
+    background-color: rgb(167, 169, 168);
+    margin: 1rem;
+    border:1px solid rgb(167, 169, 168);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.statoptions{
+    width:30%;
+    height:90%;
+    border: 1px solid rgb(140, 142, 141);
+    background-color: rgb(140, 142, 141);
+    border-radius: 20px;
+}
+.adminboatlist{
+    height: 75vh;
+    width: 95%;
+    margin: 1rem;
+    margin-top: 0;
+    background-color: rgb(167, 169, 168);
+    border:1px solid rgb(167, 169, 168);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.adminimg{
+    height:25vh;
+    width:70%;
+    padding: 10px 0;
+}
+.admininfo{
+    height: 75vh;
+}
+.adminoplist{
+    box-sizing: border-box;
+    width: 95%;
+    height: 7vh;
+    margin-top: 0.5rem;
+    padding: 6px 10px;
+    font-size: 1.5rem;
+    border: 1px solid rgb(140, 142, 141);
+    border-radius: 20px;
+    background-color: rgb(140, 142, 141);
+}
+.adminoplist:hover{
+    background-color:rgb(76, 77, 77) ;
+    color: white;
+}
+.admintable{
+    width:95%;
+    margin-top: 10px;
+    border: 1px;
+}
+.admintr{
+    width:100%;
+    box-sizing: border-box;
+    height:5vh;
+    margin-bottom: 1vh;
+}
+.adminth{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+.admintd{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    padding-left: 20px;
+}
